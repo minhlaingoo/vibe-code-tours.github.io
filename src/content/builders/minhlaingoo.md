@@ -10,5 +10,5 @@ skills: ["Networking", "InfoSec"]
 ---
 
 
-
+I want to learn how AI can fullfill my coding knowledge gap.
 
