@@ -22,3 +22,5 @@ Cyber Security Specialist focused on building resilient security systems and aut
 - Security lab environments using Linux
 - SIEM + EDR analysis practice
 - Azure cloud security testing
+
+<!-- updated for PR trigger -->
